@@ -15,5 +15,6 @@ I use php( [dompdf](https://github.com/dompdf/dompdf) ,curl,Domdocument) to crea
 
 ## live demo : @mediumtopdf_bot (telegram)
 ## join my channel : https://t.me/cybersecarticles
+### Special thanks to [Ata](https://github.com/ata-amini)
 
 ******this program is vulnrable ,fix bugs and use it on your own server******
