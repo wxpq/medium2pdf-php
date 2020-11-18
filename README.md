@@ -3,7 +3,7 @@
 Hi everyone
 This program can convert most Medium site links to pdf and bypass the limit.
 
-I use php( [dompdf](https://github.com/dompdf/dompdf) ,curl,Domdocument) to create this bot
+I use php( [dompdf](https://github.com/dompdf/dompdf) ,curl,Domdocument) to create this program (also telegram bot)
 
 ## file structure:
 - tmp_fsd54g66sg5/ -> anonymous temp folder lol :|
