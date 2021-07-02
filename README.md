@@ -13,8 +13,13 @@ I use php( [dompdf](https://github.com/dompdf/dompdf) ,curl,Domdocument) to crea
 - mediumclass.php -> main program class
 - download.php -> create object and use it
 
+## Some screenshots : 
+
+![](screenshot1.jpg)
+![](screenshot2.jpg)
+
 ## live demo : @mediumtopdf_bot (telegram)
-## join my channel : https://t.me/cybersecarticles
+## join my channel : https://t.me/CyberSecArticles
 ### Special thanks to [Ata](https://github.com/ata-amini)
 
 ******this program is vulnrable ,fix bugs and use it on your own server******
